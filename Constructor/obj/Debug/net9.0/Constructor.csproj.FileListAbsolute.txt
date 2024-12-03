@@ -1,0 +1,14 @@
+D:\VSCode\Constructor\obj\Debug\net9.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Constructor\obj\Debug\net9.0\Constructor.AssemblyInfoInputs.cache
+D:\VSCode\Constructor\obj\Debug\net9.0\Constructor.AssemblyInfo.cs
+D:\VSCode\Constructor\obj\Debug\net9.0\Constructor.csproj.CoreCompileInputs.cache
+D:\VSCode\Constructor\bin\Debug\net9.0\Constructor.exe
+D:\VSCode\Constructor\bin\Debug\net9.0\Constructor.deps.json
+D:\VSCode\Constructor\bin\Debug\net9.0\Constructor.runtimeconfig.json
+D:\VSCode\Constructor\bin\Debug\net9.0\Constructor.dll
+D:\VSCode\Constructor\bin\Debug\net9.0\Constructor.pdb
+D:\VSCode\Constructor\obj\Debug\net9.0\Constructor.dll
+D:\VSCode\Constructor\obj\Debug\net9.0\refint\Constructor.dll
+D:\VSCode\Constructor\obj\Debug\net9.0\Constructor.pdb
+D:\VSCode\Constructor\obj\Debug\net9.0\Constructor.genruntimeconfig.cache
+D:\VSCode\Constructor\obj\Debug\net9.0\ref\Constructor.dll

@@ -1,0 +1,14 @@
+D:\VSCode\Dictionary\obj\Debug\net9.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Dictionary\obj\Debug\net9.0\Dictionary.AssemblyInfoInputs.cache
+D:\VSCode\Dictionary\obj\Debug\net9.0\Dictionary.AssemblyInfo.cs
+D:\VSCode\Dictionary\obj\Debug\net9.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\VSCode\Dictionary\bin\Debug\net9.0\Dictionary.exe
+D:\VSCode\Dictionary\bin\Debug\net9.0\Dictionary.deps.json
+D:\VSCode\Dictionary\bin\Debug\net9.0\Dictionary.runtimeconfig.json
+D:\VSCode\Dictionary\bin\Debug\net9.0\Dictionary.dll
+D:\VSCode\Dictionary\bin\Debug\net9.0\Dictionary.pdb
+D:\VSCode\Dictionary\obj\Debug\net9.0\Dictionary.dll
+D:\VSCode\Dictionary\obj\Debug\net9.0\refint\Dictionary.dll
+D:\VSCode\Dictionary\obj\Debug\net9.0\Dictionary.pdb
+D:\VSCode\Dictionary\obj\Debug\net9.0\Dictionary.genruntimeconfig.cache
+D:\VSCode\Dictionary\obj\Debug\net9.0\ref\Dictionary.dll

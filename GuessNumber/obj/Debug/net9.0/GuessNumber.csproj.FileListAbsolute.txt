@@ -1,0 +1,14 @@
+D:\VSCode\GuessNumber\obj\Debug\net9.0\GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\GuessNumber\obj\Debug\net9.0\GuessNumber.AssemblyInfoInputs.cache
+D:\VSCode\GuessNumber\obj\Debug\net9.0\GuessNumber.AssemblyInfo.cs
+D:\VSCode\GuessNumber\obj\Debug\net9.0\GuessNumber.csproj.CoreCompileInputs.cache
+D:\VSCode\GuessNumber\bin\Debug\net9.0\GuessNumber.exe
+D:\VSCode\GuessNumber\bin\Debug\net9.0\GuessNumber.deps.json
+D:\VSCode\GuessNumber\bin\Debug\net9.0\GuessNumber.runtimeconfig.json
+D:\VSCode\GuessNumber\bin\Debug\net9.0\GuessNumber.dll
+D:\VSCode\GuessNumber\bin\Debug\net9.0\GuessNumber.pdb
+D:\VSCode\GuessNumber\obj\Debug\net9.0\GuessNumber.dll
+D:\VSCode\GuessNumber\obj\Debug\net9.0\refint\GuessNumber.dll
+D:\VSCode\GuessNumber\obj\Debug\net9.0\GuessNumber.pdb
+D:\VSCode\GuessNumber\obj\Debug\net9.0\GuessNumber.genruntimeconfig.cache
+D:\VSCode\GuessNumber\obj\Debug\net9.0\ref\GuessNumber.dll

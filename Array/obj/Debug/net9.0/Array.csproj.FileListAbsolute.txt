@@ -1,0 +1,14 @@
+D:\VSCode\Array\bin\Debug\net9.0\Array.exe
+D:\VSCode\Array\bin\Debug\net9.0\Array.deps.json
+D:\VSCode\Array\bin\Debug\net9.0\Array.runtimeconfig.json
+D:\VSCode\Array\bin\Debug\net9.0\Array.dll
+D:\VSCode\Array\bin\Debug\net9.0\Array.pdb
+D:\VSCode\Array\obj\Debug\net9.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Array\obj\Debug\net9.0\Array.AssemblyInfoInputs.cache
+D:\VSCode\Array\obj\Debug\net9.0\Array.AssemblyInfo.cs
+D:\VSCode\Array\obj\Debug\net9.0\Array.csproj.CoreCompileInputs.cache
+D:\VSCode\Array\obj\Debug\net9.0\Array.dll
+D:\VSCode\Array\obj\Debug\net9.0\refint\Array.dll
+D:\VSCode\Array\obj\Debug\net9.0\Array.pdb
+D:\VSCode\Array\obj\Debug\net9.0\Array.genruntimeconfig.cache
+D:\VSCode\Array\obj\Debug\net9.0\ref\Array.dll

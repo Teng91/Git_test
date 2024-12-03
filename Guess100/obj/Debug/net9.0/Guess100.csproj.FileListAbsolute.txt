@@ -1,0 +1,14 @@
+D:\VSCode\Guess100\obj\Debug\net9.0\Guess100.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Guess100\obj\Debug\net9.0\Guess100.AssemblyInfoInputs.cache
+D:\VSCode\Guess100\obj\Debug\net9.0\Guess100.AssemblyInfo.cs
+D:\VSCode\Guess100\obj\Debug\net9.0\Guess100.csproj.CoreCompileInputs.cache
+D:\VSCode\Guess100\bin\Debug\net9.0\Guess100.exe
+D:\VSCode\Guess100\bin\Debug\net9.0\Guess100.deps.json
+D:\VSCode\Guess100\bin\Debug\net9.0\Guess100.runtimeconfig.json
+D:\VSCode\Guess100\bin\Debug\net9.0\Guess100.dll
+D:\VSCode\Guess100\bin\Debug\net9.0\Guess100.pdb
+D:\VSCode\Guess100\obj\Debug\net9.0\Guess100.dll
+D:\VSCode\Guess100\obj\Debug\net9.0\refint\Guess100.dll
+D:\VSCode\Guess100\obj\Debug\net9.0\Guess100.pdb
+D:\VSCode\Guess100\obj\Debug\net9.0\Guess100.genruntimeconfig.cache
+D:\VSCode\Guess100\obj\Debug\net9.0\ref\Guess100.dll

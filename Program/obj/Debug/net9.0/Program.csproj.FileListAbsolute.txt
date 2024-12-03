@@ -1,0 +1,14 @@
+D:\VSCode\Program\bin\Debug\net9.0\Program.exe
+D:\VSCode\Program\bin\Debug\net9.0\Program.deps.json
+D:\VSCode\Program\bin\Debug\net9.0\Program.runtimeconfig.json
+D:\VSCode\Program\bin\Debug\net9.0\Program.dll
+D:\VSCode\Program\bin\Debug\net9.0\Program.pdb
+D:\VSCode\Program\obj\Debug\net9.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Program\obj\Debug\net9.0\Program.AssemblyInfoInputs.cache
+D:\VSCode\Program\obj\Debug\net9.0\Program.AssemblyInfo.cs
+D:\VSCode\Program\obj\Debug\net9.0\Program.csproj.CoreCompileInputs.cache
+D:\VSCode\Program\obj\Debug\net9.0\Program.dll
+D:\VSCode\Program\obj\Debug\net9.0\refint\Program.dll
+D:\VSCode\Program\obj\Debug\net9.0\Program.pdb
+D:\VSCode\Program\obj\Debug\net9.0\Program.genruntimeconfig.cache
+D:\VSCode\Program\obj\Debug\net9.0\ref\Program.dll

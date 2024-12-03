@@ -1,0 +1,14 @@
+D:\VSCode\CSharpMethod\obj\Debug\net9.0\CSharpMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\CSharpMethod\obj\Debug\net9.0\CSharpMethod.AssemblyInfoInputs.cache
+D:\VSCode\CSharpMethod\obj\Debug\net9.0\CSharpMethod.AssemblyInfo.cs
+D:\VSCode\CSharpMethod\obj\Debug\net9.0\CSharpMethod.csproj.CoreCompileInputs.cache
+D:\VSCode\CSharpMethod\bin\Debug\net9.0\CSharpMethod.exe
+D:\VSCode\CSharpMethod\bin\Debug\net9.0\CSharpMethod.deps.json
+D:\VSCode\CSharpMethod\bin\Debug\net9.0\CSharpMethod.runtimeconfig.json
+D:\VSCode\CSharpMethod\bin\Debug\net9.0\CSharpMethod.dll
+D:\VSCode\CSharpMethod\bin\Debug\net9.0\CSharpMethod.pdb
+D:\VSCode\CSharpMethod\obj\Debug\net9.0\CSharpMethod.dll
+D:\VSCode\CSharpMethod\obj\Debug\net9.0\refint\CSharpMethod.dll
+D:\VSCode\CSharpMethod\obj\Debug\net9.0\CSharpMethod.pdb
+D:\VSCode\CSharpMethod\obj\Debug\net9.0\CSharpMethod.genruntimeconfig.cache
+D:\VSCode\CSharpMethod\obj\Debug\net9.0\ref\CSharpMethod.dll

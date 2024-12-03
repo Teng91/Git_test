@@ -1,0 +1,14 @@
+D:\VSCode\Overload\bin\Debug\net9.0\Overload.exe
+D:\VSCode\Overload\bin\Debug\net9.0\Overload.deps.json
+D:\VSCode\Overload\bin\Debug\net9.0\Overload.runtimeconfig.json
+D:\VSCode\Overload\bin\Debug\net9.0\Overload.dll
+D:\VSCode\Overload\bin\Debug\net9.0\Overload.pdb
+D:\VSCode\Overload\obj\Debug\net9.0\Overload.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Overload\obj\Debug\net9.0\Overload.AssemblyInfoInputs.cache
+D:\VSCode\Overload\obj\Debug\net9.0\Overload.AssemblyInfo.cs
+D:\VSCode\Overload\obj\Debug\net9.0\Overload.csproj.CoreCompileInputs.cache
+D:\VSCode\Overload\obj\Debug\net9.0\Overload.dll
+D:\VSCode\Overload\obj\Debug\net9.0\refint\Overload.dll
+D:\VSCode\Overload\obj\Debug\net9.0\Overload.pdb
+D:\VSCode\Overload\obj\Debug\net9.0\Overload.genruntimeconfig.cache
+D:\VSCode\Overload\obj\Debug\net9.0\ref\Overload.dll
