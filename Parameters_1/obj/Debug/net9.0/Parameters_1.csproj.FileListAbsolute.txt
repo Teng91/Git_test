@@ -1,0 +1,15 @@
+D:\VSCode\Parameters_1\obj\Debug\net9.0\Parameters_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Parameters_1\obj\Debug\net9.0\Parameters_1.AssemblyInfoInputs.cache
+D:\VSCode\Parameters_1\obj\Debug\net9.0\Parameters_1.AssemblyInfo.cs
+D:\VSCode\Parameters_1\obj\Debug\net9.0\Parameters_1.csproj.CoreCompileInputs.cache
+D:\VSCode\Parameters_1\obj\Debug\net9.0\Parameters_1.sourcelink.json
+D:\VSCode\Parameters_1\bin\Debug\net9.0\Parameters_1.exe
+D:\VSCode\Parameters_1\bin\Debug\net9.0\Parameters_1.deps.json
+D:\VSCode\Parameters_1\bin\Debug\net9.0\Parameters_1.runtimeconfig.json
+D:\VSCode\Parameters_1\bin\Debug\net9.0\Parameters_1.dll
+D:\VSCode\Parameters_1\bin\Debug\net9.0\Parameters_1.pdb
+D:\VSCode\Parameters_1\obj\Debug\net9.0\Parameters_1.dll
+D:\VSCode\Parameters_1\obj\Debug\net9.0\refint\Parameters_1.dll
+D:\VSCode\Parameters_1\obj\Debug\net9.0\Parameters_1.pdb
+D:\VSCode\Parameters_1\obj\Debug\net9.0\Parameters_1.genruntimeconfig.cache
+D:\VSCode\Parameters_1\obj\Debug\net9.0\ref\Parameters_1.dll

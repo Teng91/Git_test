@@ -1,0 +1,15 @@
+D:\VSCode\Multicast\bin\Debug\net9.0\Multicast.exe
+D:\VSCode\Multicast\bin\Debug\net9.0\Multicast.deps.json
+D:\VSCode\Multicast\bin\Debug\net9.0\Multicast.runtimeconfig.json
+D:\VSCode\Multicast\bin\Debug\net9.0\Multicast.dll
+D:\VSCode\Multicast\bin\Debug\net9.0\Multicast.pdb
+D:\VSCode\Multicast\obj\Debug\net9.0\Multicast.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Multicast\obj\Debug\net9.0\Multicast.AssemblyInfoInputs.cache
+D:\VSCode\Multicast\obj\Debug\net9.0\Multicast.AssemblyInfo.cs
+D:\VSCode\Multicast\obj\Debug\net9.0\Multicast.csproj.CoreCompileInputs.cache
+D:\VSCode\Multicast\obj\Debug\net9.0\Multicast.sourcelink.json
+D:\VSCode\Multicast\obj\Debug\net9.0\Multicast.dll
+D:\VSCode\Multicast\obj\Debug\net9.0\refint\Multicast.dll
+D:\VSCode\Multicast\obj\Debug\net9.0\Multicast.pdb
+D:\VSCode\Multicast\obj\Debug\net9.0\Multicast.genruntimeconfig.cache
+D:\VSCode\Multicast\obj\Debug\net9.0\ref\Multicast.dll

@@ -1,0 +1,15 @@
+D:\VSCode\CheckScore\obj\Debug\net9.0\CheckScore.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\CheckScore\obj\Debug\net9.0\CheckScore.AssemblyInfoInputs.cache
+D:\VSCode\CheckScore\obj\Debug\net9.0\CheckScore.AssemblyInfo.cs
+D:\VSCode\CheckScore\obj\Debug\net9.0\CheckScore.csproj.CoreCompileInputs.cache
+D:\VSCode\CheckScore\obj\Debug\net9.0\CheckScore.sourcelink.json
+D:\VSCode\CheckScore\bin\Debug\net9.0\CheckScore.exe
+D:\VSCode\CheckScore\bin\Debug\net9.0\CheckScore.deps.json
+D:\VSCode\CheckScore\bin\Debug\net9.0\CheckScore.runtimeconfig.json
+D:\VSCode\CheckScore\bin\Debug\net9.0\CheckScore.dll
+D:\VSCode\CheckScore\bin\Debug\net9.0\CheckScore.pdb
+D:\VSCode\CheckScore\obj\Debug\net9.0\CheckScore.dll
+D:\VSCode\CheckScore\obj\Debug\net9.0\refint\CheckScore.dll
+D:\VSCode\CheckScore\obj\Debug\net9.0\CheckScore.pdb
+D:\VSCode\CheckScore\obj\Debug\net9.0\CheckScore.genruntimeconfig.cache
+D:\VSCode\CheckScore\obj\Debug\net9.0\ref\CheckScore.dll

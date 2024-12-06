@@ -1,0 +1,15 @@
+D:\VSCode\ExtensionMethod\bin\Debug\net9.0\ExtensionMethod.exe
+D:\VSCode\ExtensionMethod\bin\Debug\net9.0\ExtensionMethod.deps.json
+D:\VSCode\ExtensionMethod\bin\Debug\net9.0\ExtensionMethod.runtimeconfig.json
+D:\VSCode\ExtensionMethod\bin\Debug\net9.0\ExtensionMethod.dll
+D:\VSCode\ExtensionMethod\bin\Debug\net9.0\ExtensionMethod.pdb
+D:\VSCode\ExtensionMethod\obj\Debug\net9.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\ExtensionMethod\obj\Debug\net9.0\ExtensionMethod.AssemblyInfoInputs.cache
+D:\VSCode\ExtensionMethod\obj\Debug\net9.0\ExtensionMethod.AssemblyInfo.cs
+D:\VSCode\ExtensionMethod\obj\Debug\net9.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\VSCode\ExtensionMethod\obj\Debug\net9.0\ExtensionMethod.sourcelink.json
+D:\VSCode\ExtensionMethod\obj\Debug\net9.0\ExtensionMethod.dll
+D:\VSCode\ExtensionMethod\obj\Debug\net9.0\refint\ExtensionMethod.dll
+D:\VSCode\ExtensionMethod\obj\Debug\net9.0\ExtensionMethod.pdb
+D:\VSCode\ExtensionMethod\obj\Debug\net9.0\ExtensionMethod.genruntimeconfig.cache
+D:\VSCode\ExtensionMethod\obj\Debug\net9.0\ref\ExtensionMethod.dll

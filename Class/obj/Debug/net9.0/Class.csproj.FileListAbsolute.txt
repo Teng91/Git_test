@@ -12,3 +12,4 @@ D:\VSCode\Class\obj\Debug\net9.0\refint\Class.dll
 D:\VSCode\Class\obj\Debug\net9.0\Class.pdb
 D:\VSCode\Class\obj\Debug\net9.0\Class.genruntimeconfig.cache
 D:\VSCode\Class\obj\Debug\net9.0\ref\Class.dll
+D:\VSCode\Class\obj\Debug\net9.0\Class.sourcelink.json

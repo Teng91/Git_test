@@ -1,0 +1,15 @@
+D:\VSCode\EventExample\obj\Debug\net9.0\EventExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\EventExample\obj\Debug\net9.0\EventExample.AssemblyInfoInputs.cache
+D:\VSCode\EventExample\obj\Debug\net9.0\EventExample.AssemblyInfo.cs
+D:\VSCode\EventExample\obj\Debug\net9.0\EventExample.csproj.CoreCompileInputs.cache
+D:\VSCode\EventExample\obj\Debug\net9.0\EventExample.sourcelink.json
+D:\VSCode\EventExample\bin\Debug\net9.0\EventExample.exe
+D:\VSCode\EventExample\bin\Debug\net9.0\EventExample.deps.json
+D:\VSCode\EventExample\bin\Debug\net9.0\EventExample.runtimeconfig.json
+D:\VSCode\EventExample\bin\Debug\net9.0\EventExample.dll
+D:\VSCode\EventExample\bin\Debug\net9.0\EventExample.pdb
+D:\VSCode\EventExample\obj\Debug\net9.0\EventExample.dll
+D:\VSCode\EventExample\obj\Debug\net9.0\refint\EventExample.dll
+D:\VSCode\EventExample\obj\Debug\net9.0\EventExample.pdb
+D:\VSCode\EventExample\obj\Debug\net9.0\EventExample.genruntimeconfig.cache
+D:\VSCode\EventExample\obj\Debug\net9.0\ref\EventExample.dll
