@@ -1,0 +1,15 @@
+D:\VSCode\Inheritance\bin\Debug\net9.0\Inheritance.exe
+D:\VSCode\Inheritance\bin\Debug\net9.0\Inheritance.deps.json
+D:\VSCode\Inheritance\bin\Debug\net9.0\Inheritance.runtimeconfig.json
+D:\VSCode\Inheritance\bin\Debug\net9.0\Inheritance.dll
+D:\VSCode\Inheritance\bin\Debug\net9.0\Inheritance.pdb
+D:\VSCode\Inheritance\obj\Debug\net9.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Inheritance\obj\Debug\net9.0\Inheritance.AssemblyInfoInputs.cache
+D:\VSCode\Inheritance\obj\Debug\net9.0\Inheritance.AssemblyInfo.cs
+D:\VSCode\Inheritance\obj\Debug\net9.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\VSCode\Inheritance\obj\Debug\net9.0\Inheritance.sourcelink.json
+D:\VSCode\Inheritance\obj\Debug\net9.0\Inheritance.dll
+D:\VSCode\Inheritance\obj\Debug\net9.0\refint\Inheritance.dll
+D:\VSCode\Inheritance\obj\Debug\net9.0\Inheritance.pdb
+D:\VSCode\Inheritance\obj\Debug\net9.0\Inheritance.genruntimeconfig.cache
+D:\VSCode\Inheritance\obj\Debug\net9.0\ref\Inheritance.dll
