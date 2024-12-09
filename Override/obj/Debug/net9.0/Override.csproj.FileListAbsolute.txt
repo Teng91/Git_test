@@ -1,0 +1,15 @@
+D:\VSCode\Override\bin\Debug\net9.0\Override.exe
+D:\VSCode\Override\bin\Debug\net9.0\Override.deps.json
+D:\VSCode\Override\bin\Debug\net9.0\Override.runtimeconfig.json
+D:\VSCode\Override\bin\Debug\net9.0\Override.dll
+D:\VSCode\Override\bin\Debug\net9.0\Override.pdb
+D:\VSCode\Override\obj\Debug\net9.0\Override.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Override\obj\Debug\net9.0\Override.AssemblyInfoInputs.cache
+D:\VSCode\Override\obj\Debug\net9.0\Override.AssemblyInfo.cs
+D:\VSCode\Override\obj\Debug\net9.0\Override.csproj.CoreCompileInputs.cache
+D:\VSCode\Override\obj\Debug\net9.0\Override.sourcelink.json
+D:\VSCode\Override\obj\Debug\net9.0\Override.dll
+D:\VSCode\Override\obj\Debug\net9.0\refint\Override.dll
+D:\VSCode\Override\obj\Debug\net9.0\Override.pdb
+D:\VSCode\Override\obj\Debug\net9.0\Override.genruntimeconfig.cache
+D:\VSCode\Override\obj\Debug\net9.0\ref\Override.dll

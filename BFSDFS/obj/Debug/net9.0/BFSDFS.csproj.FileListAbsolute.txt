@@ -1,0 +1,15 @@
+D:\VSCode\BFSDFS\obj\Debug\net9.0\BFSDFS.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\BFSDFS\obj\Debug\net9.0\BFSDFS.AssemblyInfoInputs.cache
+D:\VSCode\BFSDFS\obj\Debug\net9.0\BFSDFS.AssemblyInfo.cs
+D:\VSCode\BFSDFS\obj\Debug\net9.0\BFSDFS.csproj.CoreCompileInputs.cache
+D:\VSCode\BFSDFS\obj\Debug\net9.0\BFSDFS.sourcelink.json
+D:\VSCode\BFSDFS\bin\Debug\net9.0\BFSDFS.exe
+D:\VSCode\BFSDFS\bin\Debug\net9.0\BFSDFS.deps.json
+D:\VSCode\BFSDFS\bin\Debug\net9.0\BFSDFS.runtimeconfig.json
+D:\VSCode\BFSDFS\bin\Debug\net9.0\BFSDFS.dll
+D:\VSCode\BFSDFS\bin\Debug\net9.0\BFSDFS.pdb
+D:\VSCode\BFSDFS\obj\Debug\net9.0\BFSDFS.dll
+D:\VSCode\BFSDFS\obj\Debug\net9.0\refint\BFSDFS.dll
+D:\VSCode\BFSDFS\obj\Debug\net9.0\BFSDFS.pdb
+D:\VSCode\BFSDFS\obj\Debug\net9.0\BFSDFS.genruntimeconfig.cache
+D:\VSCode\BFSDFS\obj\Debug\net9.0\ref\BFSDFS.dll
