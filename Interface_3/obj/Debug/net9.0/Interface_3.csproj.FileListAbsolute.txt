@@ -1,0 +1,15 @@
+D:\VSCode\Interface_3\obj\Debug\net9.0\Interface_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Interface_3\obj\Debug\net9.0\Interface_3.AssemblyInfoInputs.cache
+D:\VSCode\Interface_3\obj\Debug\net9.0\Interface_3.AssemblyInfo.cs
+D:\VSCode\Interface_3\obj\Debug\net9.0\Interface_3.csproj.CoreCompileInputs.cache
+D:\VSCode\Interface_3\obj\Debug\net9.0\Interface_3.sourcelink.json
+D:\VSCode\Interface_3\bin\Debug\net9.0\Interface_3.exe
+D:\VSCode\Interface_3\bin\Debug\net9.0\Interface_3.deps.json
+D:\VSCode\Interface_3\bin\Debug\net9.0\Interface_3.runtimeconfig.json
+D:\VSCode\Interface_3\bin\Debug\net9.0\Interface_3.dll
+D:\VSCode\Interface_3\bin\Debug\net9.0\Interface_3.pdb
+D:\VSCode\Interface_3\obj\Debug\net9.0\Interface_3.dll
+D:\VSCode\Interface_3\obj\Debug\net9.0\refint\Interface_3.dll
+D:\VSCode\Interface_3\obj\Debug\net9.0\Interface_3.pdb
+D:\VSCode\Interface_3\obj\Debug\net9.0\Interface_3.genruntimeconfig.cache
+D:\VSCode\Interface_3\obj\Debug\net9.0\ref\Interface_3.dll
