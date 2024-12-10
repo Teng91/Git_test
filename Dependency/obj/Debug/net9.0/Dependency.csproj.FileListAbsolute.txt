@@ -1,0 +1,15 @@
+D:\VSCode\Dependency\obj\Debug\net9.0\Dependency.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Dependency\obj\Debug\net9.0\Dependency.AssemblyInfoInputs.cache
+D:\VSCode\Dependency\obj\Debug\net9.0\Dependency.AssemblyInfo.cs
+D:\VSCode\Dependency\obj\Debug\net9.0\Dependency.csproj.CoreCompileInputs.cache
+D:\VSCode\Dependency\obj\Debug\net9.0\Dependency.sourcelink.json
+D:\VSCode\Dependency\bin\Debug\net9.0\Dependency.exe
+D:\VSCode\Dependency\bin\Debug\net9.0\Dependency.deps.json
+D:\VSCode\Dependency\bin\Debug\net9.0\Dependency.runtimeconfig.json
+D:\VSCode\Dependency\bin\Debug\net9.0\Dependency.dll
+D:\VSCode\Dependency\bin\Debug\net9.0\Dependency.pdb
+D:\VSCode\Dependency\obj\Debug\net9.0\Dependency.dll
+D:\VSCode\Dependency\obj\Debug\net9.0\refint\Dependency.dll
+D:\VSCode\Dependency\obj\Debug\net9.0\Dependency.pdb
+D:\VSCode\Dependency\obj\Debug\net9.0\Dependency.genruntimeconfig.cache
+D:\VSCode\Dependency\obj\Debug\net9.0\ref\Dependency.dll

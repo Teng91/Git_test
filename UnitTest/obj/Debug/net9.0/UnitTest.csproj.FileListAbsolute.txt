@@ -1,0 +1,15 @@
+D:\VSCode\UnitTest\obj\Debug\net9.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\UnitTest\obj\Debug\net9.0\UnitTest.AssemblyInfoInputs.cache
+D:\VSCode\UnitTest\obj\Debug\net9.0\UnitTest.AssemblyInfo.cs
+D:\VSCode\UnitTest\obj\Debug\net9.0\UnitTest.csproj.CoreCompileInputs.cache
+D:\VSCode\UnitTest\obj\Debug\net9.0\UnitTest.sourcelink.json
+D:\VSCode\UnitTest\bin\Debug\net9.0\UnitTest.exe
+D:\VSCode\UnitTest\bin\Debug\net9.0\UnitTest.deps.json
+D:\VSCode\UnitTest\bin\Debug\net9.0\UnitTest.runtimeconfig.json
+D:\VSCode\UnitTest\bin\Debug\net9.0\UnitTest.dll
+D:\VSCode\UnitTest\bin\Debug\net9.0\UnitTest.pdb
+D:\VSCode\UnitTest\obj\Debug\net9.0\UnitTest.dll
+D:\VSCode\UnitTest\obj\Debug\net9.0\refint\UnitTest.dll
+D:\VSCode\UnitTest\obj\Debug\net9.0\UnitTest.pdb
+D:\VSCode\UnitTest\obj\Debug\net9.0\UnitTest.genruntimeconfig.cache
+D:\VSCode\UnitTest\obj\Debug\net9.0\ref\UnitTest.dll
