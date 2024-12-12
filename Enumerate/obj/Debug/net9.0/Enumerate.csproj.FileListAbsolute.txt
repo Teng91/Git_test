@@ -1,0 +1,15 @@
+D:\VSCode\Enumerate\bin\Debug\net9.0\Enumerate.exe
+D:\VSCode\Enumerate\bin\Debug\net9.0\Enumerate.deps.json
+D:\VSCode\Enumerate\bin\Debug\net9.0\Enumerate.runtimeconfig.json
+D:\VSCode\Enumerate\bin\Debug\net9.0\Enumerate.dll
+D:\VSCode\Enumerate\bin\Debug\net9.0\Enumerate.pdb
+D:\VSCode\Enumerate\obj\Debug\net9.0\Enumerate.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Enumerate\obj\Debug\net9.0\Enumerate.AssemblyInfoInputs.cache
+D:\VSCode\Enumerate\obj\Debug\net9.0\Enumerate.AssemblyInfo.cs
+D:\VSCode\Enumerate\obj\Debug\net9.0\Enumerate.csproj.CoreCompileInputs.cache
+D:\VSCode\Enumerate\obj\Debug\net9.0\Enumerate.sourcelink.json
+D:\VSCode\Enumerate\obj\Debug\net9.0\Enumerate.dll
+D:\VSCode\Enumerate\obj\Debug\net9.0\refint\Enumerate.dll
+D:\VSCode\Enumerate\obj\Debug\net9.0\Enumerate.pdb
+D:\VSCode\Enumerate\obj\Debug\net9.0\Enumerate.genruntimeconfig.cache
+D:\VSCode\Enumerate\obj\Debug\net9.0\ref\Enumerate.dll

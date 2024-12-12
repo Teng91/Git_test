@@ -1,0 +1,15 @@
+D:\VSCode\Structure\bin\Debug\net9.0\Structure.exe
+D:\VSCode\Structure\bin\Debug\net9.0\Structure.deps.json
+D:\VSCode\Structure\bin\Debug\net9.0\Structure.runtimeconfig.json
+D:\VSCode\Structure\bin\Debug\net9.0\Structure.dll
+D:\VSCode\Structure\bin\Debug\net9.0\Structure.pdb
+D:\VSCode\Structure\obj\Debug\net9.0\Structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Structure\obj\Debug\net9.0\Structure.AssemblyInfoInputs.cache
+D:\VSCode\Structure\obj\Debug\net9.0\Structure.AssemblyInfo.cs
+D:\VSCode\Structure\obj\Debug\net9.0\Structure.csproj.CoreCompileInputs.cache
+D:\VSCode\Structure\obj\Debug\net9.0\Structure.sourcelink.json
+D:\VSCode\Structure\obj\Debug\net9.0\Structure.dll
+D:\VSCode\Structure\obj\Debug\net9.0\refint\Structure.dll
+D:\VSCode\Structure\obj\Debug\net9.0\Structure.pdb
+D:\VSCode\Structure\obj\Debug\net9.0\Structure.genruntimeconfig.cache
+D:\VSCode\Structure\obj\Debug\net9.0\ref\Structure.dll

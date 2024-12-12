@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multicast")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d577cc570fb226a82d47dfc96609521c9d85ebc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c8c4dcfc598c8352bf3847cd2b55b23adcde1c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multicast")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multicast")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
