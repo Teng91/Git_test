@@ -1,0 +1,15 @@
+D:\VSCode\Delegate_3\bin\Debug\net9.0\Delegate_3.exe
+D:\VSCode\Delegate_3\bin\Debug\net9.0\Delegate_3.deps.json
+D:\VSCode\Delegate_3\bin\Debug\net9.0\Delegate_3.runtimeconfig.json
+D:\VSCode\Delegate_3\bin\Debug\net9.0\Delegate_3.dll
+D:\VSCode\Delegate_3\bin\Debug\net9.0\Delegate_3.pdb
+D:\VSCode\Delegate_3\obj\Debug\net9.0\Delegate_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Delegate_3\obj\Debug\net9.0\Delegate_3.AssemblyInfoInputs.cache
+D:\VSCode\Delegate_3\obj\Debug\net9.0\Delegate_3.AssemblyInfo.cs
+D:\VSCode\Delegate_3\obj\Debug\net9.0\Delegate_3.csproj.CoreCompileInputs.cache
+D:\VSCode\Delegate_3\obj\Debug\net9.0\Delegate_3.sourcelink.json
+D:\VSCode\Delegate_3\obj\Debug\net9.0\Delegate_3.dll
+D:\VSCode\Delegate_3\obj\Debug\net9.0\refint\Delegate_3.dll
+D:\VSCode\Delegate_3\obj\Debug\net9.0\Delegate_3.pdb
+D:\VSCode\Delegate_3\obj\Debug\net9.0\Delegate_3.genruntimeconfig.cache
+D:\VSCode\Delegate_3\obj\Debug\net9.0\ref\Delegate_3.dll

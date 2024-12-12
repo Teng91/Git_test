@@ -1,0 +1,15 @@
+D:\VSCode\Delegate_4\bin\Debug\net9.0\Delegate_4.exe
+D:\VSCode\Delegate_4\bin\Debug\net9.0\Delegate_4.deps.json
+D:\VSCode\Delegate_4\bin\Debug\net9.0\Delegate_4.runtimeconfig.json
+D:\VSCode\Delegate_4\bin\Debug\net9.0\Delegate_4.dll
+D:\VSCode\Delegate_4\bin\Debug\net9.0\Delegate_4.pdb
+D:\VSCode\Delegate_4\obj\Debug\net9.0\Delegate_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Delegate_4\obj\Debug\net9.0\Delegate_4.AssemblyInfoInputs.cache
+D:\VSCode\Delegate_4\obj\Debug\net9.0\Delegate_4.AssemblyInfo.cs
+D:\VSCode\Delegate_4\obj\Debug\net9.0\Delegate_4.csproj.CoreCompileInputs.cache
+D:\VSCode\Delegate_4\obj\Debug\net9.0\Delegate_4.sourcelink.json
+D:\VSCode\Delegate_4\obj\Debug\net9.0\Delegate_4.dll
+D:\VSCode\Delegate_4\obj\Debug\net9.0\refint\Delegate_4.dll
+D:\VSCode\Delegate_4\obj\Debug\net9.0\Delegate_4.pdb
+D:\VSCode\Delegate_4\obj\Debug\net9.0\Delegate_4.genruntimeconfig.cache
+D:\VSCode\Delegate_4\obj\Debug\net9.0\ref\Delegate_4.dll

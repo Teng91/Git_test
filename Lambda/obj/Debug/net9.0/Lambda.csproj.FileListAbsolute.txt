@@ -1,0 +1,15 @@
+D:\VSCode\Lambda\bin\Debug\net9.0\Lambda.exe
+D:\VSCode\Lambda\bin\Debug\net9.0\Lambda.deps.json
+D:\VSCode\Lambda\bin\Debug\net9.0\Lambda.runtimeconfig.json
+D:\VSCode\Lambda\bin\Debug\net9.0\Lambda.dll
+D:\VSCode\Lambda\bin\Debug\net9.0\Lambda.pdb
+D:\VSCode\Lambda\obj\Debug\net9.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Lambda\obj\Debug\net9.0\Lambda.AssemblyInfoInputs.cache
+D:\VSCode\Lambda\obj\Debug\net9.0\Lambda.AssemblyInfo.cs
+D:\VSCode\Lambda\obj\Debug\net9.0\Lambda.csproj.CoreCompileInputs.cache
+D:\VSCode\Lambda\obj\Debug\net9.0\Lambda.sourcelink.json
+D:\VSCode\Lambda\obj\Debug\net9.0\Lambda.dll
+D:\VSCode\Lambda\obj\Debug\net9.0\refint\Lambda.dll
+D:\VSCode\Lambda\obj\Debug\net9.0\Lambda.pdb
+D:\VSCode\Lambda\obj\Debug\net9.0\Lambda.genruntimeconfig.cache
+D:\VSCode\Lambda\obj\Debug\net9.0\ref\Lambda.dll
