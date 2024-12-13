@@ -1,0 +1,15 @@
+D:\VSCode\Generic_List_3\obj\Debug\net9.0\Generic_List_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Generic_List_3\obj\Debug\net9.0\Generic_List_3.AssemblyInfoInputs.cache
+D:\VSCode\Generic_List_3\obj\Debug\net9.0\Generic_List_3.AssemblyInfo.cs
+D:\VSCode\Generic_List_3\obj\Debug\net9.0\Generic_List_3.csproj.CoreCompileInputs.cache
+D:\VSCode\Generic_List_3\obj\Debug\net9.0\Generic_List_3.sourcelink.json
+D:\VSCode\Generic_List_3\bin\Debug\net9.0\Generic_List_3.exe
+D:\VSCode\Generic_List_3\bin\Debug\net9.0\Generic_List_3.deps.json
+D:\VSCode\Generic_List_3\bin\Debug\net9.0\Generic_List_3.runtimeconfig.json
+D:\VSCode\Generic_List_3\bin\Debug\net9.0\Generic_List_3.dll
+D:\VSCode\Generic_List_3\bin\Debug\net9.0\Generic_List_3.pdb
+D:\VSCode\Generic_List_3\obj\Debug\net9.0\Generic_List_3.dll
+D:\VSCode\Generic_List_3\obj\Debug\net9.0\refint\Generic_List_3.dll
+D:\VSCode\Generic_List_3\obj\Debug\net9.0\Generic_List_3.pdb
+D:\VSCode\Generic_List_3\obj\Debug\net9.0\Generic_List_3.genruntimeconfig.cache
+D:\VSCode\Generic_List_3\obj\Debug\net9.0\ref\Generic_List_3.dll

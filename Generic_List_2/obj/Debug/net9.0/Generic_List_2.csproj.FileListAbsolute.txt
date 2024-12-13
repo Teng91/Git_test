@@ -1,0 +1,15 @@
+D:\VSCode\Generic_List_2\obj\Debug\net9.0\Generic_List_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Generic_List_2\obj\Debug\net9.0\Generic_List_2.AssemblyInfoInputs.cache
+D:\VSCode\Generic_List_2\obj\Debug\net9.0\Generic_List_2.AssemblyInfo.cs
+D:\VSCode\Generic_List_2\obj\Debug\net9.0\Generic_List_2.csproj.CoreCompileInputs.cache
+D:\VSCode\Generic_List_2\obj\Debug\net9.0\Generic_List_2.sourcelink.json
+D:\VSCode\Generic_List_2\bin\Debug\net9.0\Generic_List_2.exe
+D:\VSCode\Generic_List_2\bin\Debug\net9.0\Generic_List_2.deps.json
+D:\VSCode\Generic_List_2\bin\Debug\net9.0\Generic_List_2.runtimeconfig.json
+D:\VSCode\Generic_List_2\bin\Debug\net9.0\Generic_List_2.dll
+D:\VSCode\Generic_List_2\bin\Debug\net9.0\Generic_List_2.pdb
+D:\VSCode\Generic_List_2\obj\Debug\net9.0\Generic_List_2.dll
+D:\VSCode\Generic_List_2\obj\Debug\net9.0\refint\Generic_List_2.dll
+D:\VSCode\Generic_List_2\obj\Debug\net9.0\Generic_List_2.pdb
+D:\VSCode\Generic_List_2\obj\Debug\net9.0\Generic_List_2.genruntimeconfig.cache
+D:\VSCode\Generic_List_2\obj\Debug\net9.0\ref\Generic_List_2.dll
